@@ -1,0 +1,346 @@
+canonical_identifier: bkk:krp/KR6v0409/v1
+canonical_location: https://kanripo.org/bkk/KR6v0409/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 正名錄
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/B/B24/B24n0137.xml
+    old_id: B24n0137
+  edition:
+    short: bkk
+editions:
+- short: 補編
+  label: 補編
+  source_xml_id: wit.orig
+- short: B
+assets:
+  parts:
+  - {seq: 0, filename: KR6v0409_000.yaml, hash: 'sha256:4fc9937e5f272ac60741478f9f8c2647f77826142a26e0d006e993ce09f7e735'}
+  - {seq: 1, filename: KR6v0409_001.yaml, hash: 'sha256:24b336198aaf9e768eb2967f5e6de601e26bb03d05a18e254ce484522da0827f'}
+  - {seq: 2, filename: KR6v0409_002.yaml, hash: 'sha256:6cdefb00b0ab2922c5235efbdb6616a3b9b520149e5988e507d44ea1b48eea89'}
+  - {seq: 3, filename: KR6v0409_003.yaml, hash: 'sha256:7b2a1076f0032fffcc1a54b5d34418e24eca1a84282d925e04cef02784d95a16'}
+  - {seq: 4, filename: KR6v0409_004.yaml, hash: 'sha256:85b5cead2cd936cf3573c9fa54f5d9237b1a889f7fc6b3c6e71826f1e2886ed9'}
+  - {seq: 5, filename: KR6v0409_005.yaml, hash: 'sha256:b63af0271e1290651d6c8cf9a9907db61274659cddaa5abbc8f14e9525cdd547'}
+  - {seq: 6, filename: KR6v0409_006.yaml, hash: 'sha256:3e396718266745cadc70f8d0b8953d86fafc9c7f135315705ca4a9e84d0a5f1a'}
+  - {seq: 7, filename: KR6v0409_007.yaml, hash: 'sha256:1ed8b54d7748c3f67cb47d62f139c0507826e28e7da916ca8f67051b8982a5b8'}
+  - {seq: 8, filename: KR6v0409_008.yaml, hash: 'sha256:762389974895ada73fcd416622682255c55e4a783f34c2ae923fe9782cfd0252'}
+  - {seq: 9, filename: KR6v0409_009.yaml, hash: 'sha256:9c3d8512b57f9ef29cf7832d59b4211bd7ebcd941081cc88529e2419b58f037b'}
+  - {seq: 10, filename: KR6v0409_010.yaml, hash: 'sha256:231dda52d501ba9af8feaa0ff56e54ded63850123f19b71262efbfa542166872'}
+  - {seq: 11, filename: KR6v0409_011.yaml, hash: 'sha256:450663616de3dc8b447f0d3bde39e7f07c361213a6f35a6a4f479df4dbebdacb'}
+  - {seq: 12, filename: KR6v0409_012.yaml, hash: 'sha256:9a1276e95756d52ed67b3a0c4eada018da88e70a200d511a7473344f8712dfd0'}
+  - {seq: 13, filename: KR6v0409_013.yaml, hash: 'sha256:d28d474fd72e4ac35be517b7936e4eba800fac4abd6540d25273fed6cc4a6a33'}
+  - {seq: 14, filename: KR6v0409_014.yaml, hash: 'sha256:6e7139d5c1fcd4f2ed84b8f09645fd87253afaaa99d5f36e7c400f5b9776aa2d'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6v0409_000.markers.yaml, hash: 'sha256:436eed571e8aae9890df12c6c4444872b76b74f6063c845a0ad28c0e06d63bb5'}
+  - {seq: 1, role: markers, filename: assets/KR6v0409_001.markers.yaml, hash: 'sha256:866149e0fb75feca1d1779528735b796896bff9ef6bcd106b0e80b6b6eaccccc'}
+  - {seq: 2, role: markers, filename: assets/KR6v0409_002.markers.yaml, hash: 'sha256:06be9d527dae7d0a873831c88b092fb3ae317aab2f1a0912f1460c53496f3688'}
+  - {seq: 3, role: markers, filename: assets/KR6v0409_003.markers.yaml, hash: 'sha256:db9407235512eff2ba524dfcb26089285667210590618c3e9702ba7b07436555'}
+  - {seq: 4, role: markers, filename: assets/KR6v0409_004.markers.yaml, hash: 'sha256:cd833e3a6ca397fc68a5ebdce3a2a503bb686f6cb0ce19dbc7734febc2bc97ad'}
+  - {seq: 5, role: markers, filename: assets/KR6v0409_005.markers.yaml, hash: 'sha256:5f0883fa4b976cd37d3e2a3cea0452db958ee88bdf7f7e0f717a9542563b6255'}
+  - {seq: 6, role: markers, filename: assets/KR6v0409_006.markers.yaml, hash: 'sha256:623869062b595cf83838d3c2123cb225c5978e643a216e14d03c895498db3cb1'}
+  - {seq: 7, role: markers, filename: assets/KR6v0409_007.markers.yaml, hash: 'sha256:0e25b3be91be037b23b11b8a0b709141ca805ebb3337d84e9ef31972842674db'}
+  - {seq: 8, role: markers, filename: assets/KR6v0409_008.markers.yaml, hash: 'sha256:c70c51302ccee3ac1c99911a4eed7b80fa177514cf8fbd6528da9658eee4d4e1'}
+  - {seq: 9, role: markers, filename: assets/KR6v0409_009.markers.yaml, hash: 'sha256:7132d1f49f679787d8de825d196656c1076fbe9c28cce9b32b77f1986dfd65b0'}
+  - {seq: 10, role: markers, filename: assets/KR6v0409_010.markers.yaml, hash: 'sha256:c47ebcd3719aa74c3cb36f885f9f067f663d7f4bbfacd5d8fa9bfb3e15cfe908'}
+  - {seq: 11, role: markers, filename: assets/KR6v0409_011.markers.yaml, hash: 'sha256:b518fd279d813976f00bccd441179f238e2707e6fee05fe17100ff987deea135'}
+  - {seq: 12, role: markers, filename: assets/KR6v0409_012.markers.yaml, hash: 'sha256:4f45bda46e7627ffdede61bb8482fe534ac4f23e142b47b39eef46558463f6a9'}
+  - {seq: 13, role: markers, filename: assets/KR6v0409_013.markers.yaml, hash: 'sha256:5b7d9b52e0e70ae09045b00060f12ae867dd6732b1b92419d948eb9d63ab5f88'}
+  - {seq: 14, role: markers, filename: assets/KR6v0409_014.markers.yaml, hash: 'sha256:93ce8f5dd49e07c33eccc7c7bdd150e70f628599c0737d998ffcc10c13ed1b8e'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6v0409_B_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 自序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0409_B_001-juan-start
+    span:
+    - body
+    - 0
+    - 8005
+  label: 正名錄卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0409_B_001-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 二支五宗來源考之一
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0409_B_002-juan-start
+    span:
+    - body
+    - 0
+    - 5144
+  label: 正名錄卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0409_B_002-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 二支五宗來源考之二
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0409_B_003-juan-start
+    span:
+    - body
+    - 0
+    - 10939
+  label: 正名錄卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0409_B_003-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 二支五宗來源考之三
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0409_B_004-juan-start
+    span:
+    - body
+    - 0
+    - 6214
+  label: 正名錄卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0409_B_004-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 二支五宗來源考之四
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0409_B_005-juan-start
+    span:
+    - body
+    - 0
+    - 9864
+  label: 正名錄卷第五
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0409_B_005-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 洞宗世次備考之一
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0409_B_006-juan-start
+    span:
+    - body
+    - 0
+    - 6937
+  label: 正名錄卷第六
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6v0409_B_006-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 洞宗世次備考之二
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0409_B_007-juan-start
+    span:
+    - body
+    - 0
+    - 13213
+  label: 正名錄卷第七
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6v0409_B_007-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 洞宗世次備考之三
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0409_B_008-juan-start
+    span:
+    - body
+    - 0
+    - 15424
+  label: 正名錄卷第八
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6v0409_B_008-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 濟宗世次備考之一
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6v0409_B_009-juan-start
+    span:
+    - body
+    - 0
+    - 8350
+  label: 正名錄卷第九
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6v0409_B_009-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 濟宗世次備考之二
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0409_B_010-juan-start
+    span:
+    - body
+    - 0
+    - 12012
+  label: 正名錄卷第十
+  type: juan
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6v0409_B_010-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 濟宗世次備考之三
+  type: mulu
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6v0409_B_011-juan-start
+    span:
+    - body
+    - 0
+    - 8218
+  label: 正名錄卷第十一
+  type: juan
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6v0409_B_011-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 濟宗世次備考之四
+  type: mulu
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6v0409_B_012-juan-start
+    span:
+    - body
+    - 0
+    - 7272
+  label: 正名錄卷第十二
+  type: juan
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6v0409_B_012-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 濟宗世次備考之五
+  type: mulu
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6v0409_B_013-juan-start
+    span:
+    - body
+    - 0
+    - 13862
+  label: 正名錄卷第十三
+  type: juan
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6v0409_B_013-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 濟宗世次備考之六
+  type: mulu
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6v0409_B_014-juan-start
+    span:
+    - body
+    - 0
+    - 11273
+  label: 正名錄卷第十四
+  type: juan
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6v0409_B_014-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 濟宗世次備考之七
+  type: mulu
+  level: 1
+hash: sha256:71b907e96d5b2527f9fc088933e70dff6ad83e003524245456fa0e4eed82b2c7
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
