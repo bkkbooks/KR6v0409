@@ -19,7 +19,7 @@ metadata:
     short: B
 assets:
   parts:
-  - {seq: 0, filename: KR6v0409_000-B.yaml, hash: 'sha256:7464d2e96783748ba3dec0eb5faab5cfe06068a220288bb9795f9d77e9baa483'}
+  - {seq: 0, filename: KR6v0409_000-B.yaml, hash: 'sha256:a40e24bbf984d8d49c580df68c7fb7fc8fc955cfb1a98cb795be263b0bfa4780'}
   - {seq: 1, filename: KR6v0409_001-B.yaml, hash: 'sha256:1d9debac9314efdf1e7a0b8dd64afd0e322410c1beff6d200f334d7b9f4361db'}
   - {seq: 2, filename: KR6v0409_002-B.yaml, hash: 'sha256:13860e87f6c0e5efc8732ef8ef62a7b1ea5e21b69ac5ded6d5bf95f2147fe4ee'}
   - {seq: 3, filename: KR6v0409_003-B.yaml, hash: 'sha256:7184f6786579a356a4abb4bf5601640337818decaed30f00a7e872c804e29c25'}
@@ -35,7 +35,7 @@ assets:
   - {seq: 13, filename: KR6v0409_013-B.yaml, hash: 'sha256:28100c0bd8a3d95c7066e676c640fc9d5b363bae7abb58e4bf71dc909bbf9dcb'}
   - {seq: 14, filename: KR6v0409_014-B.yaml, hash: 'sha256:c40c7fc3cf9b7f85a3e6f49477418decd56504e5dc1d6f53e875b05497d53d81'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6v0409_000-B.markers.yaml, hash: 'sha256:5fb59e4421118f46dddd104ee257e758090897d2ffdde1b082ace0dc38185bc0'}
+  - {seq: 0, role: markers, filename: assets/KR6v0409_000-B.markers.yaml, hash: 'sha256:2e644af28bbd6ed730e3c3fbefe74d50679e4e3bea476e6f43112ff2d09e16ba'}
   - {seq: 1, role: markers, filename: assets/KR6v0409_001-B.markers.yaml, hash: 'sha256:8103f482e6a0e26abc315f26e474f60065b1539495ec22eb0e09deedde95fe76'}
   - {seq: 2, role: markers, filename: assets/KR6v0409_002-B.markers.yaml, hash: 'sha256:df5b3d886ab885327435b7587b3c8b17e2c05f8cd557cd19821d86be62b39516'}
   - {seq: 3, role: markers, filename: assets/KR6v0409_003-B.markers.yaml, hash: 'sha256:a4c6bc6bbb12f2d709a00fce230667dc1810b95bf65e465a16f4ec842bb080f8'}
@@ -55,7 +55,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0409_B_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 自序
@@ -341,4 +341,4 @@ table_of_contents:
   label: 濟宗世次備考之七
   type: mulu
   level: 1
-hash: sha256:03c0823251bdfe48fa234c04f9027fb3171056cf2d69e5661ab567f62a2c5a02
+hash: sha256:b6c04ecd69ba55459f9dee1ae9547266d8088746d35cd229121792eef1ef56f6

@@ -18,7 +18,7 @@ editions:
 - short: B
 assets:
   parts:
-  - {seq: 0, filename: KR6v0409_000.yaml, hash: 'sha256:c8e710c7f54b2c657b681b9b2502ba19ac7f4163bba544a5446a974894c400e6'}
+  - {seq: 0, filename: KR6v0409_000.yaml, hash: 'sha256:850020380a8c57d4dbd3a640c3145841a5b530ced24928e5f534ec75ba93ca1d'}
   - {seq: 1, filename: KR6v0409_001.yaml, hash: 'sha256:f2a1ce9583be898cee5d55dd8106eea652525dc0ce409ce0dbbf5f65129dd961'}
   - {seq: 2, filename: KR6v0409_002.yaml, hash: 'sha256:23302e7be9dabcd3d59b463dc527ebe215492c96554cfd7207373cb783458f6d'}
   - {seq: 3, filename: KR6v0409_003.yaml, hash: 'sha256:76613bdf4a8d184d26955cac92c703e4ca6883984371c00c18a030d1a9bda9fa'}
@@ -34,7 +34,7 @@ assets:
   - {seq: 13, filename: KR6v0409_013.yaml, hash: 'sha256:cd2f642594426d3232ad3b0726f3651ce253ba660391f102d98b3e9613103595'}
   - {seq: 14, filename: KR6v0409_014.yaml, hash: 'sha256:3f235c4b05869b932830f4b2f9ee6724d506b5d08fcc25bd374d6453a54b68e0'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6v0409_000.markers.yaml, hash: 'sha256:fb34f817c95d25b07610f676741a72cc69f2cf285881c924d40cec66ef1d9ea4'}
+  - {seq: 0, role: markers, filename: assets/KR6v0409_000.markers.yaml, hash: 'sha256:c0b402ebe2b6517d4f8693b4947cda55b149fb0b83b6dd4b0703ca695b4f5ee0'}
   - {seq: 1, role: markers, filename: assets/KR6v0409_001.markers.yaml, hash: 'sha256:a68a6b4a4bbd69bb76637c96322ae79013da56e999ff9e48ab0ac2d9e5d26042'}
   - {seq: 2, role: markers, filename: assets/KR6v0409_002.markers.yaml, hash: 'sha256:0e60c10875e4603abbc062ae7120f2bedda6f0e73e7973559d066e5b8cfb469d'}
   - {seq: 3, role: markers, filename: assets/KR6v0409_003.markers.yaml, hash: 'sha256:daf09c4e09f2600fe113ad1a7d6f2d51da31381cc1f0a53643729ac63822ecf8'}
@@ -54,7 +54,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0409_B_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 自序
@@ -340,7 +340,7 @@ table_of_contents:
   label: 濟宗世次備考之七
   type: mulu
   level: 1
-hash: sha256:cafe8cfe773f65c08013c78014433ef4a416e6ff89d908d221a4ea154e6d30d4
+hash: sha256:b5682c63f5aee60502122bdce649e3e13e32891fdb2614de8ea5b89f3cf3c907
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
